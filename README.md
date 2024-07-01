@@ -6,3 +6,4 @@
 </div>
 
 Let's do this. (First commit)
+Dont mind the image.. we'll change that later
