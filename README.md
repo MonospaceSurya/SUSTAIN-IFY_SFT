@@ -1,8 +1,7 @@
-# SUSTAIN-IFY_SFT
+# SUSTAINIFY-GeminiAPI
 <div align="center">
-  <img src="images/bg2.jpg" alt="Logo" width="800" height="500">
-  <h1 align="center">Sustain-ify: Let's save the planet!</h1>
+  <img src="images/kenny-eliason-SvhXD3kPSTY-unsplash.jpg" alt="Logo" width="1500" height="700">
+  <h1 align="center">Sustain-ify: Scan, Shop, Sustain.</h1>
 </div>
 
-Let's do this. (First commit)
-Dont mind the image.. we'll change that later
+Start making the github for fuck sake
