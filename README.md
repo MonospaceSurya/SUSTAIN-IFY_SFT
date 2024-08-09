@@ -27,7 +27,7 @@ Meet the amazing team behind Eco Companion:
 
 - **Amrit Subramanian**
 - **Navneet Krishna**
-- **Surya Tanstosh Kumar**
+- **Surya Sanstosh Kumar**
 - **Kavya Sakthivel**
 - **Srikar Vamsi Kottakki**
 
