@@ -1,81 +1,3 @@
-# Eco Companion 🌍
-
-**Sustainability Made Simple**
-
-Welcome to **Eco Companion**, your go-to app for integrating eco-friendly choices into your daily life. Whether you're crafting DIY projects, shopping for sustainable products, or learning how to reduce your carbon footprint, Eco Companion is here to help you make a difference.
-
-## Features
-
-### 🌱 DIY Assistant
-- Discover eco-friendly DIY projects.
-- Step-by-step guides for sustainable crafts.
-- Share your own DIY creations with the community.
-
-### 🛒 Eco Shopping Assistant
-- Find sustainable products and brands.
-- Get recommendations for eco-friendly alternatives.
-- Track your carbon savings with each purchase.
-
-### 📊 Sustainability Insights
-- Monitor your eco-impact over time.
-- Receive tips on reducing your carbon footprint.
-- Compare your progress with the community.
-
-## Join Our Community
-
-Meet the amazing team behind Eco Companion:
-
-- **Amrit Subramanian**
-- **Navneet Krishna**
-- **Surya Sanstosh Kumar**
-- **Kavya Sakthivel**
-- **Srikar Vamsi Kottakki**
-
-
-We are passionate about making sustainability accessible to everyone. Join us in our journey to create a greener future!
-
-## Installation
-
-1. Clone this repository:
-    ```bash
-    git clone https://github.com/your-username/eco-companion.git
-    ```
-
-2. Navigate to the project directory:
-    ```bash
-    cd eco-companion
-    ```
-
-3. Install dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-4. Run the application:
-    ```bash
-    python app.py
-    ```
-
-## Usage
-
-- **DIY Assistant**: Choose from a variety of projects and follow the step-by-step instructions.
-- **Eco Shopping Assistant**: Use the app to find sustainable products and track your eco-savings.
-- **Sustainability Insights**: View your impact dashboard to see how your choices contribute to a greener planet.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Thanks to [contributors](https://github.com/your-username/eco-companion/graphs/contributors) who made this project possible.
-- Inspired by the need for a more sustainable future.
-
----
-
-Made with ❤️ for a sustainable future.
-
-
 <p align="center">
   <img src="https://github.com/MonospaceSurya/SUSTAIN-IFY_SFT/blob/main/images/WhatsApp%20Image%202024-10-12%20at%2016.27.10.jpeg?raw=true" alt="Sustain-ify Logo" width="800" height="500">
 </p>
@@ -88,6 +10,7 @@ Made with ❤️ for a sustainable future.
 <details>
   <summary>🗂️ Table of Contents</summary>
   <ol>
+    <li><a href="#mission">🎯 Mission</a></li>
     <li>
       <a href="#about-sustain-ify">🐚 About Sustain-ify</a>
       <ul>
@@ -99,18 +22,21 @@ Made with ❤️ for a sustainable future.
       <a href="#workflow">🌈 Workflow Diagram</a>
     </li>
     <li>
-      <a href="#get-started">🚀 Get Started</a>
-      <ul>
-        <li><a href="#get-started">1. Build and Setup</a></li>
-        <li><a href="#get-started">2. Running FastAPI</a></li>
-      </ul>
+      <a href="#get-started">🚀 Setup Instructions</a>
     </li>
     <li>
       <a href="#-tech-stack">🛠️ Tech Stack</a>
     </li>
-    <li><a href="#community">🤖 Join the Community</a></li>
+    <li>
+      <a href="#about-us">🤖 About Us</a>
+      <ul>
+        <li><a href="#team">👥 Team</a></li>
+      </ul>
+    </li>
   </ol>
 </details>
+
+<a name="mission"></a>
 
 ## 🎯 Mission
 
@@ -155,7 +81,7 @@ Sustain-ify aims to cultivate a community that values sustainability not just fo
 
 <a name="get-started"></a>
 
-## 🚀 Get Started
+## 🚀 Setup Instructions
 
 1. **Build and Setup**  
    Clone the repository and install dependencies:
@@ -163,35 +89,30 @@ Sustain-ify aims to cultivate a community that values sustainability not just fo
    git clone https://github.com/YourUsername/Sustain-ify.git
    cd Sustain-ify
    flutter pub get
-   
-   ## Install Dependencies
-
-```bash
-pip install -r requirements.txt
+2. **Running FastAPI**
+   Install Dependencies:
+   ```bash
+   pip install -r requirements.txt
 
 ## 🛠️ Tech Stack
 
-*Languages and Frameworks*
+### Languages and Frameworks
 
-| ![Static Badge](https://img.shields.io/badge/LangChain-blue?style=for-the-badge&logo=langchain) | ![Static Badge](https://img.shields.io/badge/Gemini-blue?style=for-the-badge&logo=googlegemini&logoColor=white)| ![Static Badge](https://img.shields.io/badge/Serper_API-blue?style=for-the-badge) |
-| ![Static Badge](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white)| ![Static Badge](https://img.shields.io/badge/Fast_API-blue?style=for-the-badge&logo=fastapi&logoColor=white) | ![Static Badge](https://img.shields.io/badge/Firebase-blue?style=for-the-badge&logo=firebase&logoColor=white) |
-| ![Static Badge](https://img.shields.io/badge/Scrape_Graph-blue?style=for-the-badge) | ![Static Badge](https://img.shields.io/badge/Cloudflare-blue?style=for-the-badge&logo=cloudflare&logoColor=white) |
-|:---:|:---:|:---:|
-
----
-
-## 🚧 Project Status
-
-Sustain-ify is currently under active development. Here are the key milestones we are working on:
-
-- **Feature Refinements**: We are improving the user interface and user experience for seamless interaction.
-- **Backend Enhancements**: Actively developing backend capabilities, ensuring faster and more reliable performance.
-- **Future Integrations**: Researching new features such as sustainability trackers and personalized insights based on user behavior.
-- **Community Engagement**: Focusing on building a community-driven platform for sharing eco-friendly practices.
-
-Stay tuned for updates as we progress!
-
----
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-ff8c00?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
+  <img src="https://img.shields.io/badge/Serper_API-9c27b0?style=for-the-badge" alt="Serper API"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Fast_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Scrape_Graph-4caf50?style=for-the-badge" alt="Scrape Graph"/>
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+</p>
 
 ## 🤖 Join the Community
 
@@ -201,6 +122,64 @@ We believe in the power of community and collaboration. Join us in our mission t
 - Participate in discussions on sustainability.
 - Help shape the future of Sustain-ify!
 
+Meet the amazing team Sustain-ify!:
+
+**<p align="center">Surya</p>**
+   <p align="center">
+     <img src="https://github.com/S0L009/COMIC-IFY_OneAPI/blob/main/Streamlit/surya.jpg" alt="Surya's Picture" width="150">
+   </p>
+   <p align="center">
+     <a href="https://www.linkedin.com/in/surya-santhosh-64a08b297/">
+       <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+     </a>
+     <a href="https://www.instagram.com/ss.surya.ss/">
+       <img src="https://img.shields.io/badge/Instagram-Follow-red?style=flat-square&logo=instagram" alt="Instagram">
+     </a>
+   </p>
+
+**<p align="center">Amrit</p>**
+   <p align="center">
+     <img src="https://github.com/S0L009/COMIC-IFY_OneAPI/blob/main/Streamlit/amrith.jpg" alt="Amrit's Picture" width="150">
+   </p>
+   <p align="center">
+     <a href="https://www.linkedin.com/in/macromrit/">
+       <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+     </a>
+     <a href="https://www.instagram.com/amritsubramanian.c/">
+       <img src="https://img.shields.io/badge/Instagram-Follow-red?style=flat-square&logo=instagram" alt="Instagram">
+     </a>
+   </p>
+
+**<p align="center">Navneet</p>**
+   <p align="center">
+     <img src="https://github.com/S0L009/COMIC-IFY_OneAPI/blob/main/Streamlit/me.jpg" alt="Navneet's Picture" width="150">
+   </p>
+   <p align="center">
+     <a href="https://www.linkedin.com/in/navneet-krishna-669000279/">
+       <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+     </a>
+     <a href="https://www.instagram.com/krri__shh/">
+       <img src="https://img.shields.io/badge/Instagram-Follow-red?style=flat-square&logo=instagram" alt="Instagram">
+     </a>
+   </p>
+
+**<p align="center">Srikar</p>**
+   <p align="center">
+     <img src="https://github.com/S0L009/COMIC-IFY_OneAPI/blob/main/Streamlit/srikar.jpg" alt="Srikar's Picture" width="150">
+   </p>
+   <p align="center">
+     <a href="https://www.linkedin.com/in/kottakki-srikar-vamsi/">
+       <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+     </a>
+     <a href="https://www.instagram.com/srikarvamsi1230/">
+       <img src="https://img.shields.io/badge/Instagram-Follow-red?style=flat-square&logo=instagram" alt="Instagram">
+     </a>
+   </p>
+
+
+<div align="center">
+
 <p align="right"><a href="#readme-top">↑ Back to Top ↑</a></p>
 
-
+*<p align="left">Made with ❤️ for a sustainable future.</p>*
+   
