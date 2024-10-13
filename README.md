@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/MonospaceSurya/SUSTAIN-IFY_SFT/blob/main/images/WhatsApp%20Image%202024-10-12%20at%2016.27.10.jpeg?raw=true" alt="Sustain-ify Logo" width="800" height="500">
+  <img src="https://github.com/MonospaceSurya/SUSTAIN-IFY_SFT/blob/main/images/Frame%202.png" width="800" height="600">
 </p>
 
 <div align="center">
