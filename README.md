@@ -110,7 +110,7 @@ Sustain-ify aims to cultivate a community that values sustainability not just fo
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Scrape_Graph-4caf50?style=for-the-badge" alt="Scrape Graph"/>
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
+  <img src="https://img.shields.io/badge/MongoDB-blue?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
 
