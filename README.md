@@ -173,9 +173,9 @@ pip install -r requirements.txt
 
 *Languages and Frameworks*
 
-| ![LangChain](https://img.shields.io/badge/LangChain-3.12-blue) | ![Gemini](https://img.shields.io/badge/Gemini-0.83.2-brightgreen) | ![Serper](https://img.shields.io/badge/Serper-1.17.1-brightgreen) |
-| ![Flutter](https://img.shields.io/badge/Flutter-3.10-blue) | ![FastAPI](https://img.shields.io/badge/FastAPI-0.83-brightgreen) | ![Firebase](https://img.shields.io/badge/Firebase-1.17.1-orange) |
-| ![Scrapegraph](https://img.shields.io/badge/Scrapegraph-0.9-yellowgreen) | ![Cloudflare](https://img.shields.io/badge/Cloudflare-1.5-red) |
+| ![Static Badge](https://img.shields.io/badge/LangChain-blue?style=for-the-badge&logo=langchain) | ![Static Badge](https://img.shields.io/badge/Gemini-blue?style=for-the-badge&logo=googlegemini&logoColor=white)| ![Static Badge](https://img.shields.io/badge/Serper_API-blue?style=for-the-badge) |
+| ![Static Badge](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white)| ![Static Badge](https://img.shields.io/badge/Fast_API-blue?style=for-the-badge&logo=fastapi&logoColor=white) | ![Static Badge](https://img.shields.io/badge/Firebase-blue?style=for-the-badge&logo=firebase&logoColor=white) |
+| ![Static Badge](https://img.shields.io/badge/Scrape_Graph-blue?style=for-the-badge) | ![Static Badge](https://img.shields.io/badge/Cloudflare-blue?style=for-the-badge&logo=cloudflare&logoColor=white) |
 |:---:|:---:|:---:|
 
 ---
